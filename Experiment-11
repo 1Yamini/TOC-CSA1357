@@ -86,4 +86,3 @@ ptr++;
 find_e_closure(y[j]);
 }
 }
-}
